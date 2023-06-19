@@ -1,2 +1,2 @@
-#  First-Shot-of-Life
+# First-Shot-of-Life
  Project created to test a first person game creation
